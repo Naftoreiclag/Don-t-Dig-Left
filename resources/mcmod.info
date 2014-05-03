@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dontdigleft",
+  "name": "Don't Dig Left",
+  "description": "Description goes here!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Naftoreiclag"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
